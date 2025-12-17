@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.goverde_app",
+      "sha256_cert_fingerprints": [
+        "BD:30:A6:98:33:CF:80:E7:22:D3:79:23:99:5A:04:B9:00:B5:CF:C0:41:38:F3:57:2B:F0:3A:B0:6B:21:18:96"
+      ]
+    }
+  }
+]
